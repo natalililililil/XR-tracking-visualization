@@ -1,0 +1,10 @@
+trackingData_*.txt
+CameraRecord_*.mp4
+data/
+
+results/
+*.mp4
+
+__pycache__/
+.venv/
+venv/
